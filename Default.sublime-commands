@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Convert: HEX to RGBA",
+    "command": "hex_to_rgba"
+  }
+]

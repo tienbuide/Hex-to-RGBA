@@ -13,15 +13,18 @@ Use
 
 With the hexadecimal color value selected or the cursor in front of or in the middle of the value you can use either the menu option or keyboard shortcut.
 
-###Menu option 
+###Menu option
 The menu option is under the Edit menu as "Convert Hex to RGBA".
 
-###Keyboard shortcut 
+###Keyboard shortcut
 Mac: Shift+Cmd+R
 
 Linux: Shift+Ctrl+R
 
 Windows: Shift+Ctrl+R
+
+###In Command Palette
+Convert: HEX to RGBA
 
 Credit
 ======
